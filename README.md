@@ -86,18 +86,19 @@ The goal of this project is to:
    ```bash
    Air_Quality_Analysis_AQI_Prediction.ipynb
     
-📚 Dataset Source
+## 📚 Dataset Source
 
 Air Quality Data in India
 Dataset from https://www.kaggle.com/datasets/rohanrao/air-quality-data-in-india
 
-🏷️ Author
+## 🏷️ Author
 👤 Saksham Srivastava, Shashank Mishra, Akhil Pandey
 
 🎓 B.Tech – Data Science & AI
 
-💻 GitHub Profile
+## 💻 GitHub Profile
 📧 sakshamsrivastava7000@gmail.com 
+
 
 
 
