@@ -92,7 +92,10 @@ Dataset from https://www.kaggle.com/datasets/rohanrao/air-quality-data-in-india
 
 🏷️ Author
 👤 Saksham Srivastava, Shashank Mishra, Akhil Pandey
+
 🎓 B.Tech – Data Science & AI
+
 💻 GitHub Profile
 📧 sakshamsrivastava7000@gmail.com 
+
 
