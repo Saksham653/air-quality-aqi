@@ -1,4 +1,4 @@
-# 🌍 Air Quality Analysis & AQI Prediction
+## 🌍 Air Quality Analysis & AQI Prediction
 
 A **mini data science project** that analyzes air quality across Indian cities, explores pollutant trends, and builds a simple regression model to predict the **Air Quality Index (AQI)**.  
 This project focuses on clear **EDA**, clean **visualization**, and a simple **ML model** — all inside one Jupyter Notebook.
@@ -92,12 +92,13 @@ Air Quality Data in India
 Dataset from https://www.kaggle.com/datasets/rohanrao/air-quality-data-in-india
 
 ## 🏷️ Author
-👤 Saksham Srivastava, Shashank Mishra, Akhil Pandey
+👤 Saksham Srivastava, Shashank Mishra, Akhil Pandey, Vidisha Arora 
 
 🎓 B.Tech – Data Science & AI
 
 ## 💻 GitHub Profile
 📧 sakshamsrivastava7000@gmail.com 
+
 
 
 
