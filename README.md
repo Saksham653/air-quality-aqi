@@ -92,13 +92,20 @@ Air Quality Data in India
 Dataset from https://www.kaggle.com/datasets/rohanrao/air-quality-data-in-india
 
 ## 🏷️ Author
-👤 Saksham Srivastava, Shashank Mishra, Akhil Pandey, Vidisha Arora 
-
-🎓 B.Tech – Data Science & AI
+| Name | Degree | Department |
+|--------|-------------|---------------------------|
+| **Saksham Srivastava** | B.Tech | Computer Science – DS + AI |
+| **Vidisha Arora** | B.Tech | Computer Science – DS + AI |
+|**Shashank Mishra** | B.Tech| Computer Science - DS+AI |
+|**Akhil Pandey** | B.Tech| Computer Science - DS+AI | 
 
 ## 💻 GitHub Profile
 📧 sakshamsrivastava7000@gmail.com 
 
+## 📜 License
+
+This project is intended for academic, skill-building, and research purposes only.  
+Not allowed for commercial resale without consent of the authors.
 
 
 
