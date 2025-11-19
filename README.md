@@ -47,10 +47,8 @@ The goal of this project is to:
 
 | Metric | Value |
 |---------|--------|
-| **Mean Absolute Error (MAE)** | `X.XX` |
-| **R² Score** | `0.8X` |
-
-> Replace these with your actual results from the notebook.
+| **Mean Absolute Error (MAE)** | 12.54 |
+| **R² Score** | 0.81 |
 
 ---
 
@@ -106,6 +104,7 @@ Dataset from https://www.kaggle.com/datasets/rohanrao/air-quality-data-in-india
 
 This project is intended for academic, skill-building, and research purposes only.  
 Not allowed for commercial resale without consent of the authors.
+
 
 
 
